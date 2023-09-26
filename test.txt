@@ -1,1 +1,2 @@
 # Alloman git test
+git diff test
