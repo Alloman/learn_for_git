@@ -1,2 +1,5 @@
 # Alloman git test
 git diff test
+
+# add by Alloman form Server1058
+git test for Server1058 git command
